@@ -26,8 +26,8 @@ class Login : AppCompatActivity() {
         title = "Login"
 
 
-        val emailSucces: String = "invitado@android.com"
-        val passwordSucces: String = "invitado123"
+        val emailSucces: String = "admin@travelapp.com"
+        val passwordSucces: String = "admin123"
 
         val etEmail: EditText = findViewById(R.id.etEmail)
         val etPassword: EditText = findViewById(R.id.etPassword)

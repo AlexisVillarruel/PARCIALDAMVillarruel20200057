@@ -7,9 +7,14 @@
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
 
-    <string name="menu_home">Home</string>
-    <string name="menu_gallery">Gallery</string>
-    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_home">Hoteles</string>
+    <string name="menu_gallery">Seguros</string>
+    <string name="menu_slideshow">Presupuesto</string>
     <string name="valtittle">SIGN IN</string>
     <string name="btntext">SIGN IN</string>
+    <string name="txttitulo">Seguros</string>
+    <string name="txttituloPres">Presupuesto</string>
+    <string name="btncalc">Calcular</string>
+    <string name="txtcalculo">El presupuesto total es :</string>
+    <string name="txttituloHotel">HOTELES</string>
 </resources>

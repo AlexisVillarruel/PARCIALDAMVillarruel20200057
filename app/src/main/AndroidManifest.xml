@@ -13,8 +13,14 @@
         android:theme="@style/Theme.PARCIALDAMVillarruel20200057"
         tools:targetApi="31">
         <activity
+            android:name=".Splash"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity2"
+            android:exported="false" />
+        <activity
             android:name=".Login"
-            android:exported="true" >
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -25,8 +31,7 @@
             android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name"
-            android:theme="@style/Theme.PARCIALDAMVillarruel20200057.NoActionBar">
-        </activity>
+            android:theme="@style/Theme.PARCIALDAMVillarruel20200057.NoActionBar" />
     </application>
 
 </manifest>
